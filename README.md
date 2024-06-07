@@ -30,4 +30,4 @@ Este projeto consiste no desenvolvimento de um sistema de monitoramento de barco
 
 Este projeto foi desenvolvido como parte do trabalho de Global Solution da matéria de Computational Thinking With Python​.
 
-link do video explicando codigo e projeto: https://youtu.be/ey6R1tOJYIM
+link do video explicando codigo e projeto: https://youtu.be/Vk6CMs4hrKI
